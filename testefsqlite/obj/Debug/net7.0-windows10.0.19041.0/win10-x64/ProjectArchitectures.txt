@@ -1,0 +1,1 @@
+D:\maui_training\testefsqlite\testefsqlite\testefsqlite.csproj;x64

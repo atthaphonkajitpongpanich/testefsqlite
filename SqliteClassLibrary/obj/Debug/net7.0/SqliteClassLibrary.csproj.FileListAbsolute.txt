@@ -1,0 +1,14 @@
+D:\maui_training\testefsqlite\SqliteClassLibrary\bin\Debug\net7.0\SqliteClassLibrary.deps.json
+D:\maui_training\testefsqlite\SqliteClassLibrary\bin\Debug\net7.0\SqliteClassLibrary.runtimeconfig.json
+D:\maui_training\testefsqlite\SqliteClassLibrary\bin\Debug\net7.0\SqliteClassLibrary.dll
+D:\maui_training\testefsqlite\SqliteClassLibrary\bin\Debug\net7.0\SqliteClassLibrary.pdb
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.csproj.AssemblyReference.cache
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.AssemblyInfoInputs.cache
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.AssemblyInfo.cs
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.csproj.CoreCompileInputs.cache
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.dll
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\refint\SqliteClassLibrary.dll
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.pdb
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\SqliteClassLibrary.genruntimeconfig.cache
+D:\maui_training\testefsqlite\SqliteClassLibrary\obj\Debug\net7.0\ref\SqliteClassLibrary.dll
